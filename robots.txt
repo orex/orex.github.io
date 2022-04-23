@@ -1,1 +1,1 @@
-Sitemap: https://orex.github.io/supercell-new/sitemap.xml
+Sitemap: https://orex.github.io/supercell/sitemap.xml
